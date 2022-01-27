@@ -1,5 +1,5 @@
 # App-Blocker
- The text based version of my App Blocker that I planning on converting to GUI soon.
+ The text based version of my App Blocker that I plan on converting to GUI soon.
 
  Currently I am just uploading the appblocker.py file, it runs in CLI and can itself download python modules needed for the complete code to run.
 
