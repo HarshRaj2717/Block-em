@@ -1,5 +1,5 @@
 # App-Blocker (<em>Discontinued</em>)
- The CLI version of my App Blocker that I plan on converting to GUI soon.
+ The CLI version of my App Blocker that I plan on converting to GUI when I get time.
 
  Currently I am just uploading the appblocker.py file, it runs in CLI and can itself download python modules needed for the complete code to run.
 
